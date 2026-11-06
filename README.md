@@ -1,16 +1,15 @@
-## Hi there 👋
+# Sarygin Rodion
+Backend engineer with 5+ years of commercial experience in Go, owning services from design to production in fintech and logistics. I design event-driven systems where correctness matters (settlement, fulfillment), agree on contracts with neighbouring teams and keep the code and documentation in a state where the next person can extend the system without me. Experienced in mentoring developers, leading design and code reviews, and tuning PostgreSQL-heavy workloads under peak load.
 
-<!--
-**saryginrodion/saryginrodion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+**Languages & Framework**: Golang, Gin, Chi, Gorilla/Websocket, gRPC, Python
 
-Here are some ideas to get you started:
+**Databases**: PostgreSQL, Redis, MongoDB, ElasticSearch, Cassandra
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Infrastructure**:  Apache Kafka, Kubernetes, Helm, Docker, RabbitMQ
+
+**Architecture**: Microservices, Event-driven, Hexagonal Architecture, CQRS
+
+**Monitoring**: Grafana, Prometheus, OpenTelemetry, Jaeger, pprof
+
+**Other**: Python, FastAPI, Git, Github, Gitlab CI/CD, Jira, Notion
